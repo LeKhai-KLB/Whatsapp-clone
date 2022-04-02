@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364916424557",
+    "project_id": "whatappsclone-335fb",
+    "storage_bucket": "whatappsclone-335fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364916424557:android:538128aca57848fb75a464",
+        "android_client_info": {
+          "package_name": "com.khai.whatappsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364916424557-4ree1bkdii7653il5tg7d46v07v3eln1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHZFNAJfM7deFL3W7V0SE1Va24SZhiTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364916424557-4ree1bkdii7653il5tg7d46v07v3eln1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
